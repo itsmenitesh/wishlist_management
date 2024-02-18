@@ -1,4 +1,21 @@
-# Wishlist Management Application
+
+<h1 align="center"> Wishlist Management Application</h1>
+
+<p align="center">
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-17-red" alt="Java 17">
+    </a>
+    <a href="https://maven.apache.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Maven-3.9.1-blue" alt="Maven 3.8.1">
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://img.shields.io/badge/Spring Boot-3.2.2-brightgreen" alt="Spring Boot 3.2.2">
+    </a>
+   <a href="https://spring.io/projects/spring-security" target="_blank">
+    <img src="https://img.shields.io/badge/Spring Security-6.2.1-brightgreen" alt="Spring Security Latest">
+</a>
+ 
+</p>
 
 ## Introduction:
 This is a Wishlist Management REST API built with Spring Boot. It allows users to manage their wishlists by adding and deleting items.
